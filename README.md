@@ -1,7 +1,5 @@
 # E-Commerce Sales & Customer Analysis
 
-# E-Commerce Sales & Customer Analysis
-
 > End-to-end data analytics project using Python, SQL, and Power BI to analyze e-commerce sales, customers, products, profitability, discounts, geography, and shipping performance.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -13,6 +11,19 @@
 ## Dashboard Preview
 
 ![E-Commerce Sales & Customer Analysis Dashboard](docs/dashboard-preview.png)
+
+## Project Highlights
+
+| Metric | Value |
+|---|---:|
+| Recorded Revenue | ₹68.49 Cr |
+| Recorded Profit | ₹14.72 Cr |
+| Orders | 25,000 |
+| Ordering Customers | 4,175 |
+| Average Order Value | ₹27,395.57 |
+| Profit Margin | 21.50% |
+| Dashboard Pages | 4 |
+| Dashboard Visuals | 28 |
 
 ## Project Overview
 
