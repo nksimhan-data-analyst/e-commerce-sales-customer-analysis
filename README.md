@@ -25,6 +25,15 @@
 | Dashboard Pages | 4 |
 | Dashboard Visuals | 28 |
 
+### Key Findings
+
+- Revenue increased strongly from 2023 to 2025, primarily alongside substantial growth in order volume.
+- Average Order Value remained relatively stable despite the increase in total revenue.
+- Electronics generated the highest recorded category revenue.
+- Premium customers had the highest recorded revenue per customer among defined customer segments.
+- Higher discount levels were associated with progressively lower recorded profit margins.
+- The South region generated the highest recorded regional revenue.
+
 ## Project Overview
 
 This project analyzes a synthetic e-commerce dataset covering orders, customers, products, locations, dates, revenue, discounts, profit, and shipping information from 2023 to 2025.
