@@ -1,5 +1,15 @@
 # E-Commerce Sales & Customer Analysis
 
+# E-Commerce Sales & Customer Analysis
+
+> End-to-end data analytics project using Python, SQL, and Power BI to analyze e-commerce sales, customers, products, profitability, discounts, geography, and shipping performance.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-blue)
+![DuckDB](https://img.shields.io/badge/DuckDB-SQL-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
+
 ## Project Overview
 
 This project analyzes a synthetic e-commerce dataset covering orders, customers, products, locations, dates, revenue, discounts, profit, and shipping information from 2023 to 2025.
