@@ -1,0 +1,151 @@
+location_id,city,state,region,postal_code
+LOC0001,Chennai,Tamil Nadu,South,600001
+LOC0002,Chennai,Tamil Nadu,South,600011
+LOC0003,Chennai,Tamil Nadu,South,600021
+LOC0004,Chennai,Tamil Nadu,South,600031
+LOC0005,Chennai,Tamil Nadu,South,600041
+LOC0006,Bengaluru,Karnataka,South,560001
+LOC0007,Bengaluru,Karnataka,South,560011
+LOC0008,Bengaluru,Karnataka,South,560021
+LOC0009,Bengaluru,Karnataka,South,560031
+LOC0010,Bengaluru,Karnataka,South,560041
+LOC0011,Hyderabad,Telangana,South,500001
+LOC0012,Hyderabad,Telangana,South,500011
+LOC0013,Hyderabad,Telangana,South,500021
+LOC0014,Hyderabad,Telangana,South,500031
+LOC0015,Hyderabad,Telangana,South,500041
+LOC0016,Mumbai,Maharashtra,West,400001
+LOC0017,Mumbai,Maharashtra,West,400011
+LOC0018,Mumbai,Maharashtra,West,400021
+LOC0019,Mumbai,Maharashtra,West,400031
+LOC0020,Mumbai,Maharashtra,West,400041
+LOC0021,Delhi,Delhi,North,110001
+LOC0022,Delhi,Delhi,North,110011
+LOC0023,Delhi,Delhi,North,110021
+LOC0024,Delhi,Delhi,North,110031
+LOC0025,Delhi,Delhi,North,110041
+LOC0026,Pune,Maharashtra,West,411001
+LOC0027,Pune,Maharashtra,West,411011
+LOC0028,Pune,Maharashtra,West,411021
+LOC0029,Pune,Maharashtra,West,411031
+LOC0030,Pune,Maharashtra,West,411041
+LOC0031,Kolkata,West Bengal,East,700001
+LOC0032,Kolkata,West Bengal,East,700011
+LOC0033,Kolkata,West Bengal,East,700021
+LOC0034,Kolkata,West Bengal,East,700031
+LOC0035,Kolkata,West Bengal,East,700041
+LOC0036,Ahmedabad,Gujarat,West,380001
+LOC0037,Ahmedabad,Gujarat,West,380011
+LOC0038,Ahmedabad,Gujarat,West,380021
+LOC0039,Ahmedabad,Gujarat,West,380031
+LOC0040,Ahmedabad,Gujarat,West,380041
+LOC0041,Coimbatore,Tamil Nadu,South,641001
+LOC0042,Coimbatore,Tamil Nadu,South,641011
+LOC0043,Coimbatore,Tamil Nadu,South,641021
+LOC0044,Coimbatore,Tamil Nadu,South,641031
+LOC0045,Coimbatore,Tamil Nadu,South,641041
+LOC0046,Madurai,Tamil Nadu,South,625001
+LOC0047,Madurai,Tamil Nadu,South,625011
+LOC0048,Madurai,Tamil Nadu,South,625021
+LOC0049,Madurai,Tamil Nadu,South,625031
+LOC0050,Madurai,Tamil Nadu,South,625041
+LOC0051,Kochi,Kerala,South,682001
+LOC0052,Kochi,Kerala,South,682011
+LOC0053,Kochi,Kerala,South,682021
+LOC0054,Kochi,Kerala,South,682031
+LOC0055,Kochi,Kerala,South,682041
+LOC0056,Jaipur,Rajasthan,North,302001
+LOC0057,Jaipur,Rajasthan,North,302011
+LOC0058,Jaipur,Rajasthan,North,302021
+LOC0059,Jaipur,Rajasthan,North,302031
+LOC0060,Jaipur,Rajasthan,North,302041
+LOC0061,Lucknow,Uttar Pradesh,North,226001
+LOC0062,Lucknow,Uttar Pradesh,North,226011
+LOC0063,Lucknow,Uttar Pradesh,North,226021
+LOC0064,Lucknow,Uttar Pradesh,North,226031
+LOC0065,Lucknow,Uttar Pradesh,North,226041
+LOC0066,Chandigarh,Punjab,North,160017
+LOC0067,Chandigarh,Punjab,North,160027
+LOC0068,Chandigarh,Punjab,North,160037
+LOC0069,Chandigarh,Punjab,North,160047
+LOC0070,Chandigarh,Punjab,North,160057
+LOC0071,Indore,Madhya Pradesh,Central,452001
+LOC0072,Indore,Madhya Pradesh,Central,452011
+LOC0073,Indore,Madhya Pradesh,Central,452021
+LOC0074,Indore,Madhya Pradesh,Central,452031
+LOC0075,Indore,Madhya Pradesh,Central,452041
+LOC0076,Nagpur,Maharashtra,West,440001
+LOC0077,Nagpur,Maharashtra,West,440011
+LOC0078,Nagpur,Maharashtra,West,440021
+LOC0079,Nagpur,Maharashtra,West,440031
+LOC0080,Nagpur,Maharashtra,West,440041
+LOC0081,Surat,Gujarat,West,395001
+LOC0082,Surat,Gujarat,West,395011
+LOC0083,Surat,Gujarat,West,395021
+LOC0084,Surat,Gujarat,West,395031
+LOC0085,Surat,Gujarat,West,395041
+LOC0086,Visakhapatnam,Andhra Pradesh,South,530001
+LOC0087,Visakhapatnam,Andhra Pradesh,South,530011
+LOC0088,Visakhapatnam,Andhra Pradesh,South,530021
+LOC0089,Visakhapatnam,Andhra Pradesh,South,530031
+LOC0090,Visakhapatnam,Andhra Pradesh,South,530041
+LOC0091,Bhopal,Madhya Pradesh,Central,462001
+LOC0092,Bhopal,Madhya Pradesh,Central,462011
+LOC0093,Bhopal,Madhya Pradesh,Central,462021
+LOC0094,Bhopal,Madhya Pradesh,Central,462031
+LOC0095,Bhopal,Madhya Pradesh,Central,462041
+LOC0096,Patna,Bihar,East,800001
+LOC0097,Patna,Bihar,East,800011
+LOC0098,Patna,Bihar,East,800021
+LOC0099,Patna,Bihar,East,800031
+LOC0100,Patna,Bihar,East,800041
+LOC0101,Vadodara,Gujarat,West,390001
+LOC0102,Vadodara,Gujarat,West,390011
+LOC0103,Vadodara,Gujarat,West,390021
+LOC0104,Vadodara,Gujarat,West,390031
+LOC0105,Vadodara,Gujarat,West,390041
+LOC0106,Ludhiana,Punjab,North,141001
+LOC0107,Ludhiana,Punjab,North,141011
+LOC0108,Ludhiana,Punjab,North,141021
+LOC0109,Ludhiana,Punjab,North,141031
+LOC0110,Ludhiana,Punjab,North,141041
+LOC0111,Agra,Uttar Pradesh,North,282001
+LOC0112,Agra,Uttar Pradesh,North,282011
+LOC0113,Agra,Uttar Pradesh,North,282021
+LOC0114,Agra,Uttar Pradesh,North,282031
+LOC0115,Agra,Uttar Pradesh,North,282041
+LOC0116,Nashik,Maharashtra,West,422001
+LOC0117,Nashik,Maharashtra,West,422011
+LOC0118,Nashik,Maharashtra,West,422021
+LOC0119,Nashik,Maharashtra,West,422031
+LOC0120,Nashik,Maharashtra,West,422041
+LOC0121,Thiruvananthapuram,Kerala,South,695001
+LOC0122,Thiruvananthapuram,Kerala,South,695011
+LOC0123,Thiruvananthapuram,Kerala,South,695021
+LOC0124,Thiruvananthapuram,Kerala,South,695031
+LOC0125,Thiruvananthapuram,Kerala,South,695041
+LOC0126,Guwahati,Assam,North East,781001
+LOC0127,Guwahati,Assam,North East,781011
+LOC0128,Guwahati,Assam,North East,781021
+LOC0129,Guwahati,Assam,North East,781031
+LOC0130,Guwahati,Assam,North East,781041
+LOC0131,Bhubaneswar,Odisha,East,751001
+LOC0132,Bhubaneswar,Odisha,East,751011
+LOC0133,Bhubaneswar,Odisha,East,751021
+LOC0134,Bhubaneswar,Odisha,East,751031
+LOC0135,Bhubaneswar,Odisha,East,751041
+LOC0136,Dehradun,Uttarakhand,North,248001
+LOC0137,Dehradun,Uttarakhand,North,248011
+LOC0138,Dehradun,Uttarakhand,North,248021
+LOC0139,Dehradun,Uttarakhand,North,248031
+LOC0140,Dehradun,Uttarakhand,North,248041
+LOC0141,Mysuru,Karnataka,South,570001
+LOC0142,Mysuru,Karnataka,South,570011
+LOC0143,Mysuru,Karnataka,South,570021
+LOC0144,Mysuru,Karnataka,South,570031
+LOC0145,Mysuru,Karnataka,South,570041
+LOC0146,Varanasi,Uttar Pradesh,North,221001
+LOC0147,Varanasi,Uttar Pradesh,North,221011
+LOC0148,Varanasi,Uttar Pradesh,North,221021
+LOC0149,Varanasi,Uttar Pradesh,North,221031
+LOC0150,Varanasi,Uttar Pradesh,North,221041

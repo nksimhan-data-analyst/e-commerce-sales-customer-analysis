@@ -1,0 +1,505 @@
+product_id,product_name,category_id,category,subcategory,unit_cost,unit_price
+PROD00001,Apex Headphones Max 381,1,Electronics,Headphones,11305.89,13475.05
+PROD00002,Pro Headphones X 704,1,Electronics,Headphones,18033.03,20899.18
+PROD00003,Volt Smartwatches Ultra 716,1,Electronics,Smartwatches,3008.37,3639.07
+PROD00004,Volt Cameras Plus 703,1,Electronics,Cameras,12571.25,17735.39
+PROD00005,Titan Smartwatches Lite 384,1,Electronics,Smartwatches,7908.22,11365.41
+PROD00006,Aura Speakers X 489,1,Electronics,Speakers,5675.22,7969.42
+PROD00007,Apex Speakers Max 570,1,Electronics,Speakers,22376.67,32265.69
+PROD00008,Aura Cameras Ultra 400,1,Electronics,Cameras,33517.38,44764.33
+PROD00009,Urban Speakers Pro 821,1,Electronics,Speakers,4643.1,6260.65
+PROD00010,Aura Speakers Pro 987,1,Electronics,Speakers,5838.05,7200.61
+PROD00011,Zenith Speakers Lite 463,1,Electronics,Speakers,9961.27,12253.29
+PROD00012,Urban Headphones Max 275,1,Electronics,Headphones,22297.32,27279.5
+PROD00013,Titan Cameras Lite 755,1,Electronics,Cameras,28150.15,34227.34
+PROD00014,Apex Speakers Pro 941,1,Electronics,Speakers,3219.81,4007.49
+PROD00015,Aura Speakers Pro 680,1,Electronics,Speakers,35301.97,43929.89
+PROD00016,Titan Cameras Max 569,1,Electronics,Cameras,7429.12,8854.69
+PROD00017,Urban Speakers Plus 697,1,Electronics,Speakers,17177.22,20884.0
+PROD00018,Pro Smartwatches Plus 193,1,Electronics,Smartwatches,30719.72,43263.53
+PROD00019,Zenith Smartwatches Max 532,1,Electronics,Smartwatches,24663.54,31209.99
+PROD00020,Pro Cameras Lite 666,1,Electronics,Cameras,34709.63,40035.62
+PROD00021,Pro Headphones Lite 887,1,Electronics,Headphones,26356.55,31192.07
+PROD00022,Zenith Cameras Plus 103,1,Electronics,Cameras,38245.01,54030.86
+PROD00023,Pro Speakers Pro 619,1,Electronics,Speakers,36679.86,51760.99
+PROD00024,Pro Speakers Ultra 303,1,Electronics,Speakers,7807.89,10765.16
+PROD00025,Urban Headphones Lite 600,1,Electronics,Headphones,2740.12,3914.89
+PROD00026,Volt Speakers X 346,1,Electronics,Speakers,35364.36,50715.5
+PROD00027,Eco Headphones X 878,1,Electronics,Headphones,22242.83,26418.44
+PROD00028,Pro Cameras Pro 371,1,Electronics,Cameras,22051.6,29372.26
+PROD00029,Pro Smartwatches Max 806,1,Electronics,Smartwatches,9643.74,11992.13
+PROD00030,Eco Speakers Ultra 562,1,Electronics,Speakers,6598.16,8032.66
+PROD00031,Apex Speakers Ultra 667,1,Electronics,Speakers,10744.36,13065.84
+PROD00032,Apex Headphones Pro 169,1,Electronics,Headphones,36405.96,51255.61
+PROD00033,Pro Headphones Pro 385,1,Electronics,Headphones,27421.16,33296.72
+PROD00034,Urban Smartwatches Ultra 584,1,Electronics,Smartwatches,11233.9,14512.98
+PROD00035,Volt Cameras X 199,1,Electronics,Cameras,27041.34,33971.75
+PROD00036,Eco Cameras Max 155,1,Electronics,Cameras,27587.85,39871.33
+PROD00037,Apex Headphones Plus 845,1,Electronics,Headphones,14893.5,20977.52
+PROD00038,Volt Smartwatches Pro 649,1,Electronics,Smartwatches,19047.31,24315.13
+PROD00039,Eco Speakers Pro 995,1,Electronics,Speakers,37084.09,47576.64
+PROD00040,Apex Headphones Max 653,1,Electronics,Headphones,33769.05,48651.03
+PROD00041,Zenith Smartwatches Plus 597,1,Electronics,Smartwatches,20291.62,28598.91
+PROD00042,Zenith Headphones Plus 102,1,Electronics,Headphones,39441.74,48496.02
+PROD00043,Nova Mice Plus 813,2,Computers & Accessories,Mice,38378.07,55595.5
+PROD00044,Eco Storage Pro 294,2,Computers & Accessories,Storage,13274.9,19123.99
+PROD00045,Pro Storage X 865,2,Computers & Accessories,Storage,13916.98,16213.88
+PROD00046,Pro Mice Ultra 261,2,Computers & Accessories,Mice,4161.42,5419.62
+PROD00047,Aura Monitors Ultra 169,2,Computers & Accessories,Monitors,27658.08,33758.37
+PROD00048,Urban Laptops Pro 692,2,Computers & Accessories,Laptops,24591.73,32849.99
+PROD00049,Urban Mice Ultra 635,2,Computers & Accessories,Mice,14022.05,17222.3
+PROD00050,Volt Keyboards Lite 505,2,Computers & Accessories,Keyboards,6973.37,9369.78
+PROD00051,Pulse Mice X 109,2,Computers & Accessories,Mice,19414.85,28142.53
+PROD00052,Aura Laptops Ultra 318,2,Computers & Accessories,Laptops,21223.62,25250.52
+PROD00053,Aura Keyboards Pro 478,2,Computers & Accessories,Keyboards,12829.52,16440.46
+PROD00054,Nova Storage Ultra 926,2,Computers & Accessories,Storage,26851.1,30941.78
+PROD00055,Nova Storage Max 206,2,Computers & Accessories,Storage,37679.34,44849.24
+PROD00056,Aura Laptops Max 666,2,Computers & Accessories,Laptops,7907.02,9761.43
+PROD00057,Pulse Monitors Pro 803,2,Computers & Accessories,Monitors,26101.04,32083.28
+PROD00058,Nova Mice X 194,2,Computers & Accessories,Mice,26102.81,36512.72
+PROD00059,Apex Laptops Lite 889,2,Computers & Accessories,Laptops,6971.15,10065.91
+PROD00060,Eco Monitors Ultra 822,2,Computers & Accessories,Monitors,18252.1,21042.87
+PROD00061,Zenith Laptops Ultra 136,2,Computers & Accessories,Laptops,33714.61,44663.53
+PROD00062,Titan Monitors Pro 142,2,Computers & Accessories,Monitors,13713.82,19469.43
+PROD00063,Pulse Laptops Pro 798,2,Computers & Accessories,Laptops,11482.13,13558.54
+PROD00064,Titan Storage Ultra 867,2,Computers & Accessories,Storage,7873.03,11250.27
+PROD00065,Zenith Monitors Plus 125,2,Computers & Accessories,Monitors,8815.71,12583.06
+PROD00066,Volt Mice Lite 263,2,Computers & Accessories,Mice,31920.23,37743.4
+PROD00067,Eco Laptops Pro 304,2,Computers & Accessories,Laptops,33030.29,42546.02
+PROD00068,volt keyboards pro 124,2,Computers & Accessories,Keyboards,27081.26,34380.74
+PROD00069,Aura Keyboards Lite 459,2,Computers & Accessories,Keyboards,26376.31,33495.36
+PROD00070,Pulse Storage X 218,2,Computers & Accessories,Storage,35327.46,43395.0
+PROD00071,Nova Storage X 211,2,Computers & Accessories,Storage,24669.71,30928.56
+PROD00072,Titan Keyboards Ultra 623,2,Computers & Accessories,Keyboards,6394.54,9079.3
+PROD00073,Nova Monitors X 825,2,Computers & Accessories,Monitors,18570.19,24252.22
+PROD00074,Volt Storage Lite 541,2,Computers & Accessories,Storage,4659.0,6286.26
+PROD00075,Urban Keyboards Lite 779,2,Computers & Accessories,Keyboards,34224.58,46748.25
+PROD00076,Pro Keyboards Lite 782,2,Computers & Accessories,Keyboards,17518.93,22261.66
+PROD00077,Pro Keyboards Pro 296,2,Computers & Accessories,Keyboards,17976.96,25744.97
+PROD00078,Urban Monitors Ultra 408,2,Computers & Accessories,Monitors,17430.86,24405.25
+PROD00079,Nova Keyboards Pro 540,2,Computers & Accessories,Keyboards,31858.84,42435.92
+PROD00080,Eco Keyboards Plus 552,2,Computers & Accessories,Keyboards,27673.83,36068.75
+PROD00081,Aura Monitors Lite 627,2,Computers & Accessories,Monitors,27226.45,36368.49
+PROD00082,Volt Laptops Max 417,2,Computers & Accessories,Laptops,10536.35,12746.23
+PROD00083,Apex Laptops Pro 586,2,Computers & Accessories,Laptops,25228.41,34829.0
+PROD00084,Titan Mice Max 689,2,Computers & Accessories,Mice,9388.54,12758.14
+PROD00085,Titan Cases Pro 251,3,Mobile & Tablets,Cases,26930.2,31014.53
+PROD00086,Titan Smartphones Pro 280,3,Mobile & Tablets,Smartphones,32556.17,44236.47
+PROD00087,Apex Cases Ultra 355,3,Mobile & Tablets,Cases,36863.86,43735.56
+PROD00088,Eco Tablets Max 643,3,Mobile & Tablets,Tablets,39539.91,52534.14
+PROD00089,Urban Cases Max 616,3,Mobile & Tablets,Cases,18216.15,25904.39
+PROD00090,Zenith Cases Max 982,3,Mobile & Tablets,Cases,20037.63,24601.35
+PROD00091,Nova Tablets Ultra 596,3,Mobile & Tablets,Tablets,25816.44,31815.65
+PROD00092,Nova Smartphones Pro 378,3,Mobile & Tablets,Smartphones,14762.21,20931.45
+PROD00093,Zenith Smartphones Pro 336,3,Mobile & Tablets,Smartphones,16555.34,19797.57
+PROD00094,Aura Tablets Plus 517,3,Mobile & Tablets,Tablets,14573.49,18796.56
+PROD00095,Volt Smartphones Plus 498,3,Mobile & Tablets,Smartphones,36383.86,48216.76
+PROD00096,Urban Smartphones Plus 588,3,Mobile & Tablets,Smartphones,2224.05,2792.36
+PROD00097,Titan Cases Ultra 865,3,Mobile & Tablets,Cases,29916.09,41582.19
+PROD00098,Eco Tablets Pro 379,3,Mobile & Tablets,Tablets,18561.77,21507.66
+PROD00099,Titan Power Banks Max 269,3,Mobile & Tablets,Power Banks,33939.22,48392.65
+PROD00100,Titan Smartphones Ultra 677,3,Mobile & Tablets,Smartphones,27193.99,31957.95
+PROD00101,Zenith Cases Plus 286,3,Mobile & Tablets,Cases,3910.82,4942.22
+PROD00102,Eco Tablets Lite 445,3,Mobile & Tablets,Tablets,30926.73,39083.28
+PROD00103,Nova Cases X 581,3,Mobile & Tablets,Cases,2736.56,3589.9
+PROD00104,Volt Power Banks Max 170,3,Mobile & Tablets,Power Banks,31686.86,42635.5
+PROD00105,Volt Smartphones Pro 959,3,Mobile & Tablets,Smartphones,2774.44,3317.44
+PROD00106,Eco Tablets Max 217,3,Mobile & Tablets,Tablets,23430.84,28477.6
+PROD00107,Pulse Power Banks Pro 720,3,Mobile & Tablets,Power Banks,25075.4,34463.08
+PROD00108,Zenith Smartphones Lite 210,3,Mobile & Tablets,Smartphones,23990.02,34273.73
+PROD00109,Titan Cases Max 303,3,Mobile & Tablets,Cases,4887.87,6633.74
+PROD00110,Aura Tablets Max 891,3,Mobile & Tablets,Tablets,13460.14,18242.23
+PROD00111,Urban Smartphones X 455,3,Mobile & Tablets,Smartphones,22244.32,29995.49
+PROD00112,Pro Smartphones Max 449,3,Mobile & Tablets,Smartphones,2480.78,3165.52
+PROD00113,Aura Cases Plus 470,3,Mobile & Tablets,Cases,26152.23,36576.83
+PROD00114,titan tablets pro 851,3,Mobile & Tablets,Tablets,21826.38,29359.47
+PROD00115,Eco Cases Plus 945,3,Mobile & Tablets,Cases,29779.0,36643.61
+PROD00116,Aura Tablets Lite 561,3,Mobile & Tablets,Tablets,11266.81,14527.57
+PROD00117,Pulse Cases X 606,3,Mobile & Tablets,Cases,34336.21,41359.75
+PROD00118,Pulse Tablets Lite 448,3,Mobile & Tablets,Tablets,12627.02,16779.37
+PROD00119,Pro Power Banks X 629,3,Mobile & Tablets,Power Banks,38026.38,44707.0
+PROD00120,Eco Cases Ultra 876,3,Mobile & Tablets,Cases,11132.31,14392.16
+PROD00121,Eco Cases X 195,3,Mobile & Tablets,Cases,13180.95,16757.21
+PROD00122,Nova Tablets Max 695,3,Mobile & Tablets,Tablets,16022.78,21086.65
+PROD00123,Titan Power Banks Max 663,3,Mobile & Tablets,Power Banks,14570.07,19827.77
+PROD00124,Nova Power Banks Lite 336,3,Mobile & Tablets,Power Banks,6584.92,7953.11
+PROD00125,Pro Smartphones Max 289,3,Mobile & Tablets,Smartphones,9278.56,12726.3
+PROD00126,Urban Power Banks Ultra 711,3,Mobile & Tablets,Power Banks,12753.95,15051.67
+PROD00127,Nova Refrigerators Pro 469,4,Home Appliances,Refrigerators,8818.78,10179.03
+PROD00128,Nova Refrigerators X 155,4,Home Appliances,Refrigerators,23027.64,31299.75
+PROD00129,Eco Refrigerators X 993,4,Home Appliances,Refrigerators,2466.09,3046.36
+PROD00130,Eco Microwaves Lite 288,4,Home Appliances,Microwaves,38688.91,47422.68
+PROD00131,Aura Microwaves X 510,4,Home Appliances,Microwaves,20686.37,27370.27
+PROD00132,Zenith Air Conditioners Pro 930,4,Home Appliances,Air Conditioners,23387.9,29027.91
+PROD00133,Aura Refrigerators Ultra 882,4,Home Appliances,Refrigerators,17814.61,23672.74
+PROD00134,Pro Refrigerators Plus 561,4,Home Appliances,Refrigerators,36523.17,45259.72
+PROD00135,Nova Microwaves Ultra 735,4,Home Appliances,Microwaves,4288.75,6167.36
+PROD00136,Volt Air Conditioners Max 316,4,Home Appliances,Air Conditioners,12056.55,14158.69
+PROD00137,Zenith Refrigerators Ultra 176,4,Home Appliances,Refrigerators,7948.24,10114.57
+PROD00138,Nova Microwaves X 337,4,Home Appliances,Microwaves,12947.99,15988.37
+PROD00139,Aura Microwaves Max 339,4,Home Appliances,Microwaves,37108.62,51445.48
+PROD00140,Titan Refrigerators X 657,4,Home Appliances,Refrigerators,10542.76,12595.4
+PROD00141,Zenith Washing Machines X 161,4,Home Appliances,Washing Machines,8305.07,10317.25
+PROD00142,Eco Washing Machines X 579,4,Home Appliances,Washing Machines,28169.76,38308.63
+PROD00143,Pro Washing Machines Ultra 605,4,Home Appliances,Washing Machines,18634.84,24773.36
+PROD00144,Pulse Microwaves Ultra 356,4,Home Appliances,Microwaves,2982.87,3635.15
+PROD00145,Nova Air Conditioners Ultra 141,4,Home Appliances,Air Conditioners,30998.14,37277.04
+PROD00146,Nova Microwaves Pro 699,4,Home Appliances,Microwaves,18563.63,25882.78
+PROD00147,Eco Air Conditioners Lite 518,4,Home Appliances,Air Conditioners,14665.72,19813.97
+PROD00148,Pulse Refrigerators Plus 810,4,Home Appliances,Refrigerators,20827.82,28092.05
+PROD00149,Pro Microwaves X 565,4,Home Appliances,Microwaves,5346.27,6553.03
+PROD00150,Titan Air Conditioners Ultra 944,4,Home Appliances,Air Conditioners,39548.53,53283.66
+PROD00151,Titan Microwaves X 292,4,Home Appliances,Microwaves,21700.7,29009.28
+PROD00152,Eco Microwaves X 308,4,Home Appliances,Microwaves,12148.14,14447.83
+PROD00153,Eco Washing Machines Max 596,4,Home Appliances,Washing Machines,6614.19,9537.29
+PROD00154,Zenith Refrigerators Lite 664,4,Home Appliances,Refrigerators,2519.63,3205.97
+PROD00155,Aura Refrigerators Plus 220,4,Home Appliances,Refrigerators,26612.97,31834.2
+PROD00156,Pro Washing Machines Max 379,4,Home Appliances,Washing Machines,17788.63,23031.83
+PROD00157,Volt Microwaves Plus 664,4,Home Appliances,Microwaves,7496.39,9049.52
+PROD00158,Aura Refrigerators Lite 891,4,Home Appliances,Refrigerators,32020.23,40809.24
+PROD00159,Apex Washing Machines Lite 843,4,Home Appliances,Washing Machines,13345.12,17696.72
+PROD00160,Zenith Microwaves Plus 651,4,Home Appliances,Microwaves,20404.97,25500.75
+PROD00161,Eco Microwaves Lite 990,4,Home Appliances,Microwaves,9168.79,12462.67
+PROD00162,Volt Microwaves Plus 144,4,Home Appliances,Microwaves,14090.7,18203.68
+PROD00163,Titan Microwaves Max 911,4,Home Appliances,Microwaves,33188.41,47932.21
+PROD00164,Apex Microwaves Pro 614,4,Home Appliances,Microwaves,38683.44,48338.76
+PROD00165,Eco Air Conditioners X 638,4,Home Appliances,Air Conditioners,36596.78,42254.8
+PROD00166,Titan Refrigerators Max 258,4,Home Appliances,Refrigerators,4843.47,6705.58
+PROD00167,Pulse Washing Machines Ultra 809,4,Home Appliances,Washing Machines,17104.37,20082.14
+PROD00168,Pro Washing Machines Plus 424,4,Home Appliances,Washing Machines,25818.37,36564.79
+PROD00169,Pro Sofas X 732,5,Furniture,Sofas,1957.89,2879.87
+PROD00170,Volt Beds Max 192,5,Furniture,Beds,7075.6,9088.29
+PROD00171,Eco Office Chairs Pro 810,5,Furniture,Office Chairs,5192.53,6543.26
+PROD00172,Apex Beds Lite 467,5,Furniture,Beds,6247.78,8128.04
+PROD00173,Titan Bookshelves Ultra 798,5,Furniture,Bookshelves,12095.27,15838.69
+PROD00174,Urban Office Chairs Plus 734,5,Furniture,Office Chairs,10563.88,15044.91
+PROD00175,Zenith Bookshelves Pro 572,5,Furniture,Bookshelves,9930.66,14010.68
+PROD00176,Eco Office Chairs Lite 793,5,Furniture,Office Chairs,8652.37,11039.15
+PROD00177,Urban Beds Lite 754,5,Furniture,Beds,14468.41,21581.22
+PROD00178,Nova Sofas Pro 493,5,Furniture,Sofas,12946.7,16666.65
+PROD00179,Urban Sofas Lite 688,5,Furniture,Sofas,5142.21,7686.31
+PROD00180,Titan Office Chairs Lite 108,5,Furniture,Office Chairs,8923.01,13295.55
+PROD00181,Urban Office Chairs Max 608,5,Furniture,Office Chairs,12659.74,19825.5
+PROD00182,Urban Desks Lite 324,5,Furniture,Desks,9912.65,14544.95
+PROD00183,Aura Desks Max 761,5,Furniture,Desks,1551.92,2368.25
+PROD00184,Urban Office Chairs Lite 849,5,Furniture,Office Chairs,2839.77,4453.8
+PROD00185,Titan Beds Pro 305,5,Furniture,Beds,2850.24,4100.9
+PROD00186,Pro Beds Ultra 379,5,Furniture,Beds,12626.62,16918.9
+PROD00187,Nova Sofas Max 991,5,Furniture,Sofas,5742.01,7408.97
+PROD00188,Zenith Office Chairs Pro 980,5,Furniture,Office Chairs,10468.53,15556.68
+PROD00189,Pro Sofas Lite 192,5,Furniture,Sofas,12069.55,15145.73
+PROD00190,Aura Bookshelves Plus 477,5,Furniture,Bookshelves,10419.6,15476.43
+PROD00191,Titan Bookshelves Max 480,5,Furniture,Bookshelves,2516.85,3352.03
+PROD00192,Urban Office Chairs Ultra 435,5,Furniture,Office Chairs,13813.58,18337.23
+PROD00193,Eco Office Chairs Max 409,5,Furniture,Office Chairs,10089.35,13023.7
+PROD00194,Apex Office Chairs Lite 604,5,Furniture,Office Chairs,2625.69,3497.89
+PROD00195,Zenith Bookshelves Plus 564,5,Furniture,Bookshelves,6194.16,9800.92
+PROD00196,Titan Bookshelves Ultra 860,5,Furniture,Bookshelves,11172.39,17427.75
+PROD00197,Eco Office Chairs Ultra 517,5,Furniture,Office Chairs,14146.74,19068.52
+PROD00198,Volt Beds Plus 555,5,Furniture,Beds,14307.77,22168.57
+PROD00199,Pulse Office Chairs Ultra 760,5,Furniture,Office Chairs,6021.43,8365.87
+PROD00200,Aura Desks Plus 193,5,Furniture,Desks,10278.76,15157.03
+PROD00201,Apex Bookshelves X 905,5,Furniture,Bookshelves,5669.13,9048.42
+PROD00202,Volt Bookshelves X 949,5,Furniture,Bookshelves,11712.2,15489.45
+PROD00203,Volt Desks Lite 892,5,Furniture,Desks,3065.76,4798.48
+PROD00204,Nova Office Chairs Pro 233,5,Furniture,Office Chairs,8563.02,13096.96
+PROD00205,Apex Office Chairs Pro 115,5,Furniture,Office Chairs,6015.39,9179.19
+PROD00206,pulse bookshelves x 278,5,Furniture,Bookshelves,4715.15,6103.12
+PROD00207,Pro Sofas X 863,5,Furniture,Sofas,1889.81,2658.77
+PROD00208,Pro Beds Ultra 211,5,Furniture,Beds,7328.08,9728.33
+PROD00209,Apex Bookshelves Max 902,5,Furniture,Bookshelves,13722.52,20317.79
+PROD00210,Eco Beds Max 131,5,Furniture,Beds,1851.56,2624.85
+PROD00211,Titan Footwear Max 210,6,Fashion,Footwear,1327.62,2824.85
+PROD00212,Aura Men's Shirts Lite 722,6,Fashion,Men's Shirts,541.17,812.27
+PROD00213,Urban Jackets Ultra 829,6,Fashion,Jackets,947.93,2081.36
+PROD00214,Nova Jackets Plus 617,6,Fashion,Jackets,1592.48,2355.83
+PROD00215,Pro Men's Shirts Max 986,6,Fashion,Men's Shirts,694.55,1223.28
+PROD00216,Titan Women's Dresses Lite 947,6,Fashion,Women's Dresses,1243.05,2153.94
+PROD00217,Pulse Men's Shirts Plus 420,6,Fashion,Men's Shirts,1729.75,2939.6
+PROD00218,Eco Women's Dresses X 193,6,Fashion,Women's Dresses,2113.08,3115.91
+PROD00219,Pulse Men's Shirts Pro 669,6,Fashion,Men's Shirts,337.96,731.78
+PROD00220,Pulse Jackets Max 225,6,Fashion,Jackets,1144.86,2402.93
+PROD00221,Apex Footwear Lite 714,6,Fashion,Footwear,918.63,1362.22
+PROD00222,Volt Jackets Pro 772,6,Fashion,Jackets,1309.04,2719.94
+PROD00223,Pro Jeans Lite 217,6,Fashion,Jeans,1953.99,3633.02
+PROD00224,Pro Footwear Ultra 728,6,Fashion,Footwear,1752.45,3233.95
+PROD00225,Nova Jackets X 284,6,Fashion,Jackets,828.52,1665.27
+PROD00226,Pulse Jeans X 285,6,Fashion,Jeans,2200.68,4077.99
+PROD00227,Aura Footwear Pro 858,6,Fashion,Footwear,1656.3,2359.44
+PROD00228,Volt Jackets Plus 529,6,Fashion,Jackets,1243.39,1897.32
+PROD00229,pulse jeans ultra 710,6,Fashion,Jeans,395.4,570.2
+PROD00230,Urban Women's Dresses X 790,6,Fashion,Women's Dresses,387.64,680.11
+PROD00231,Eco Footwear Ultra 552,6,Fashion,Footwear,1152.62,1812.45
+PROD00232,Aura Jackets Lite 540,6,Fashion,Jackets,455.05,883.96
+PROD00233,Eco Jackets Ultra 783,6,Fashion,Jackets,909.36,1433.54
+PROD00234,Apex Jackets X 309,6,Fashion,Jackets,893.26,1401.52
+PROD00235,Nova Women's Dresses Lite 435,6,Fashion,Women's Dresses,475.96,855.74
+PROD00236,Zenith Footwear Pro 489,6,Fashion,Footwear,1424.94,2257.23
+PROD00237,Pulse Jackets X 506,6,Fashion,Jackets,2182.06,3128.73
+PROD00238,Eco Men's Shirts X 982,6,Fashion,Men's Shirts,920.04,1604.02
+PROD00239,Titan Footwear Lite 217,6,Fashion,Footwear,1131.57,2458.87
+PROD00240,Urban Women's Dresses Plus 951,6,Fashion,Women's Dresses,1786.1,3017.59
+PROD00241,Aura Footwear Pro 546,6,Fashion,Footwear,1554.4,2827.73
+PROD00242,Nova Footwear Max 447,6,Fashion,Footwear,709.62,1435.76
+PROD00243,Pro Men's Shirts Max 216,6,Fashion,Men's Shirts,1420.39,2208.88
+PROD00244,Pulse Jeans Max 938,6,Fashion,Jeans,1684.52,2557.36
+PROD00245,Zenith Men's Shirts Lite 302,6,Fashion,Men's Shirts,599.05,911.93
+PROD00246,Zenith Men's Shirts Max 605,6,Fashion,Men's Shirts,1267.09,2345.37
+PROD00247,Eco Jackets Max 678,6,Fashion,Jackets,1678.88,3675.45
+PROD00248,Pulse Jeans Pro 550,6,Fashion,Jeans,357.06,626.2
+PROD00249,Nova Jeans Ultra 157,6,Fashion,Jeans,1009.47,1473.17
+PROD00250,Eco Footwear X 158,6,Fashion,Footwear,1048.1,1708.04
+PROD00251,Urban Men's Shirts Ultra 619,6,Fashion,Men's Shirts,1084.31,2021.44
+PROD00252,Eco Men's Shirts Ultra 767,6,Fashion,Men's Shirts,632.95,1192.48
+PROD00253,Apex Haircare Plus 205,7,Beauty,Haircare,2065.22,4274.81
+PROD00254,Pro Skincare Max 276,7,Beauty,Skincare,290.03,570.22
+PROD00255,Pro Makeup Ultra 724,7,Beauty,Makeup,565.12,959.73
+PROD00256,Titan Fragrances Plus 893,7,Beauty,Fragrances,978.24,1837.45
+PROD00257,Aura Fragrances Lite 196,7,Beauty,Fragrances,1483.32,2535.36
+PROD00258,Urban Fragrances Pro 441,7,Beauty,Fragrances,387.45,748.13
+PROD00259,Nova Fragrances Max 815,7,Beauty,Fragrances,1722.91,2589.81
+PROD00260,Nova Skincare Ultra 485,7,Beauty,Skincare,1680.03,2793.53
+PROD00261,Pro Haircare X 761,7,Beauty,Haircare,1742.05,3147.52
+PROD00262,Pulse Skincare Lite 284,7,Beauty,Skincare,2387.69,3995.53
+PROD00263,Volt Makeup Pro 240,7,Beauty,Makeup,556.37,910.58
+PROD00264,Pro Skincare Ultra 955,7,Beauty,Skincare,1898.88,3458.29
+PROD00265,Urban Fragrances Pro 711,7,Beauty,Fragrances,1066.46,1631.46
+PROD00266,Eco Haircare X 520,7,Beauty,Haircare,1037.89,2050.52
+PROD00267,Urban Makeup Lite 870,7,Beauty,Makeup,1921.63,3380.43
+PROD00268,Nova Haircare Plus 955,7,Beauty,Haircare,646.24,1255.41
+PROD00269,Eco Makeup Lite 896,7,Beauty,Makeup,1078.31,1964.64
+PROD00270,Volt Haircare Ultra 241,7,Beauty,Haircare,2207.9,3183.23
+PROD00271,pulse makeup ultra 205,7,Beauty,Makeup,1836.22,3328.57
+PROD00272,Nova Skincare X 881,7,Beauty,Skincare,568.72,1000.63
+PROD00273,Titan Haircare X 327,7,Beauty,Haircare,2078.42,4380.69
+PROD00274,Titan Skincare X 505,7,Beauty,Skincare,1354.62,2151.97
+PROD00275,Pulse Skincare Pro 128,7,Beauty,Skincare,932.98,1380.12
+PROD00276,Zenith Fragrances Pro 139,7,Beauty,Fragrances,859.82,1774.51
+PROD00277,Eco Haircare Plus 730,7,Beauty,Haircare,212.08,310.35
+PROD00278,Volt Fragrances Pro 661,7,Beauty,Fragrances,2362.52,4458.32
+PROD00279,Aura Makeup Lite 343,7,Beauty,Makeup,892.65,1283.81
+PROD00280,Urban Makeup Plus 164,7,Beauty,Makeup,454.97,966.42
+PROD00281,Pro Skincare Ultra 347,7,Beauty,Skincare,1852.65,3025.41
+PROD00282,Urban Skincare Lite 346,7,Beauty,Skincare,1512.53,2344.19
+PROD00283,Pro Skincare Lite 169,7,Beauty,Skincare,2392.83,4391.48
+PROD00284,Titan Skincare Plus 144,7,Beauty,Skincare,1662.04,3631.28
+PROD00285,Apex Fragrances Lite 907,7,Beauty,Fragrances,355.39,566.1
+PROD00286,Urban Skincare Max 874,7,Beauty,Skincare,964.79,1384.93
+PROD00287,Zenith Fragrances Max 575,7,Beauty,Fragrances,2455.88,4378.41
+PROD00288,Zenith Haircare X 833,7,Beauty,Haircare,1985.24,3506.22
+PROD00289,Volt Fragrances X 910,7,Beauty,Fragrances,658.78,944.38
+PROD00290,Pro Fragrances Plus 934,7,Beauty,Fragrances,1448.97,2322.19
+PROD00291,Nova Haircare Lite 982,7,Beauty,Haircare,1995.94,4176.77
+PROD00292,Nova Fragrances X 918,7,Beauty,Fragrances,1046.44,2209.66
+PROD00293,Titan Makeup Lite 291,7,Beauty,Makeup,1341.27,2411.62
+PROD00294,Aura Fragrances Max 534,7,Beauty,Fragrances,381.53,718.03
+PROD00295,Pro Yoga Mats Lite 428,8,Sports,Yoga Mats,2436.37,3325.09
+PROD00296,Nova Cricket Gear Plus 717,8,Sports,Cricket Gear,11047.28,14453.44
+PROD00297,Pulse Cycling Plus 143,8,Sports,Cycling,11175.4,17534.9
+PROD00298,Nova Cycling Max 910,8,Sports,Cycling,14270.66,18213.14
+PROD00299,Pulse Cycling Ultra 920,8,Sports,Cycling,11498.57,15017.08
+PROD00300,Zenith Fitness Equipment Ultra 794,8,Sports,Fitness Equipment,11938.37,15068.36
+PROD00301,Volt Fitness Equipment Max 475,8,Sports,Fitness Equipment,6070.11,9604.81
+PROD00302,urban fitness equipment pro 795,8,Sports,Fitness Equipment,7298.92,10071.32
+PROD00303,Aura Cycling Ultra 240,8,Sports,Cycling,8412.44,11687.5
+PROD00304,Volt Cricket Gear X 126,8,Sports,Cricket Gear,11299.45,16097.93
+PROD00305,Pro Cycling X 368,8,Sports,Cycling,11849.5,17731.75
+PROD00306,Urban Yoga Mats Lite 810,8,Sports,Yoga Mats,13830.7,19666.16
+PROD00307,Zenith Fitness Equipment X 562,8,Sports,Fitness Equipment,3417.19,5124.69
+PROD00308,Pulse Fitness Equipment Max 455,8,Sports,Fitness Equipment,10933.57,15771.66
+PROD00309,Nova Cricket Gear Pro 828,8,Sports,Cricket Gear,10933.89,16347.01
+PROD00310,Pulse Yoga Mats Ultra 329,8,Sports,Yoga Mats,2699.07,3563.7
+PROD00311,Volt Yoga Mats Plus 126,8,Sports,Yoga Mats,6052.55,8778.0
+PROD00312,Pro Cycling Pro 726,8,Sports,Cycling,13379.45,17032.2
+PROD00313,Eco Cycling Ultra 520,8,Sports,Cycling,11768.3,18101.64
+PROD00314,Zenith Fitness Equipment Lite 757,8,Sports,Fitness Equipment,2038.31,2880.22
+PROD00315,Zenith Cricket Gear Ultra 755,8,Sports,Cricket Gear,9229.0,14016.31
+PROD00316,Titan Yoga Mats Ultra 989,8,Sports,Yoga Mats,1775.78,2296.89
+PROD00317,Nova Yoga Mats Pro 265,8,Sports,Yoga Mats,5517.25,8266.31
+PROD00318,Pro Cricket Gear Lite 966,8,Sports,Cricket Gear,2104.04,2774.61
+PROD00319,Zenith Cricket Gear Max 410,8,Sports,Cricket Gear,9602.0,12316.48
+PROD00320,Urban Yoga Mats Ultra 257,8,Sports,Yoga Mats,3396.81,4988.44
+PROD00321,Urban Cricket Gear X 945,8,Sports,Cricket Gear,13092.94,16738.38
+PROD00322,Volt Cricket Gear Ultra 526,8,Sports,Cricket Gear,9653.52,12169.23
+PROD00323,Nova Cricket Gear Plus 350,8,Sports,Cricket Gear,12265.63,18272.69
+PROD00324,Eco Cricket Gear X 805,8,Sports,Cricket Gear,1838.78,2581.4
+PROD00325,Eco Cycling Pro 448,8,Sports,Cycling,9493.24,12905.15
+PROD00326,Pulse Cricket Gear Plus 233,8,Sports,Cricket Gear,11649.31,16661.34
+PROD00327,Pulse Fitness Equipment Pro 577,8,Sports,Fitness Equipment,2715.31,3821.41
+PROD00328,Aura Yoga Mats X 397,8,Sports,Yoga Mats,14235.39,22099.83
+PROD00329,Volt Cycling Pro 933,8,Sports,Cycling,5584.1,8109.18
+PROD00330,Volt Cricket Gear Pro 610,8,Sports,Cricket Gear,14943.57,21121.02
+PROD00331,Eco Cricket Gear X 192,8,Sports,Cricket Gear,14233.26,20309.52
+PROD00332,Volt Yoga Mats Ultra 461,8,Sports,Yoga Mats,1681.21,2267.07
+PROD00333,Nova Cycling Ultra 108,8,Sports,Cycling,12860.41,18015.18
+PROD00334,Pulse Cricket Gear Plus 474,8,Sports,Cricket Gear,1633.39,2070.99
+PROD00335,Pulse Yoga Mats Ultra 395,8,Sports,Yoga Mats,2029.44,2894.98
+PROD00336,Urban Cricket Gear Max 725,8,Sports,Cricket Gear,2663.35,4238.14
+PROD00337,Pulse Self-Help Lite 671,9,Books,Self-Help,942.0,1580.19
+PROD00338,Urban Non-Fiction Ultra 511,9,Books,Non-Fiction,525.07,694.49
+PROD00339,Pulse Non-Fiction Plus 631,9,Books,Non-Fiction,484.14,776.14
+PROD00340,Pulse Non-Fiction Ultra 426,9,Books,Non-Fiction,204.38,366.92
+PROD00341,Urban Technical Lite 619,9,Books,Technical,836.87,1310.69
+PROD00342,Eco Technical X 477,9,Books,Technical,364.68,494.07
+PROD00343,Urban Self-Help Lite 915,9,Books,Self-Help,903.83,1569.09
+PROD00344,Urban Fiction Plus 371,9,Books,Fiction,968.72,1638.54
+PROD00345,Apex Non-Fiction Ultra 591,9,Books,Non-Fiction,211.99,342.25
+PROD00346,Zenith Self-Help Max 348,9,Books,Self-Help,79.99,141.91
+PROD00347,Volt Fiction X 551,9,Books,Fiction,348.01,478.76
+PROD00348,Titan Non-Fiction Ultra 893,9,Books,Non-Fiction,630.9,968.94
+PROD00349,Zenith Fiction Ultra 312,9,Books,Fiction,582.84,1048.57
+PROD00350,Pro Self-Help Plus 421,9,Books,Self-Help,958.85,1466.88
+PROD00351,Pro Technical Lite 792,9,Books,Technical,783.39,1300.79
+PROD00352,Urban Technical Plus 296,9,Books,Technical,959.47,1381.16
+PROD00353,Volt Technical Lite 889,9,Books,Technical,324.55,455.56
+PROD00354,Pulse Self-Help Plus 457,9,Books,Self-Help,582.46,1029.35
+PROD00355,Nova Technical X 687,9,Books,Technical,692.79,1032.15
+PROD00356,Pulse Self-Help Pro 397,9,Books,Self-Help,89.96,159.92
+PROD00357,Pulse Fiction Plus 771,9,Books,Fiction,293.62,452.04
+PROD00358,Pro Non-Fiction Lite 675,9,Books,Non-Fiction,711.36,973.6
+PROD00359,Volt Non-Fiction X 785,9,Books,Non-Fiction,909.92,1285.57
+PROD00360,Apex Non-Fiction X 523,9,Books,Non-Fiction,363.78,558.84
+PROD00361,Apex Non-Fiction Ultra 261,9,Books,Non-Fiction,436.56,771.63
+PROD00362,Eco Self-Help Max 304,9,Books,Self-Help,768.12,1108.87
+PROD00363,Apex Technical X 767,9,Books,Technical,595.43,933.38
+PROD00364,Zenith Fiction Plus 957,9,Books,Fiction,217.0,381.88
+PROD00365,Eco Self-Help Pro 866,9,Books,Self-Help,964.02,1699.59
+PROD00366,Apex Fiction Lite 681,9,Books,Fiction,622.64,1098.49
+PROD00367,Nova Technical Plus 756,9,Books,Technical,566.14,875.79
+PROD00368,Pro Non-Fiction Plus 379,9,Books,Non-Fiction,233.17,316.26
+PROD00369,Eco Non-Fiction Max 363,9,Books,Non-Fiction,732.67,957.63
+PROD00370,Nova Technical Ultra 790,9,Books,Technical,769.42,1067.76
+PROD00371,Titan Self-Help Ultra 435,9,Books,Self-Help,132.4,216.43
+PROD00372,Zenith Non-Fiction Plus 431,9,Books,Non-Fiction,939.03,1223.95
+PROD00373,Volt Self-Help Plus 871,9,Books,Self-Help,303.64,444.78
+PROD00374,Nova Fiction Max 468,9,Books,Fiction,708.13,942.57
+PROD00375,Eco Fiction Lite 263,9,Books,Fiction,435.15,675.02
+PROD00376,Aura Technical Max 402,9,Books,Technical,399.17,562.99
+PROD00377,Eco Non-Fiction Pro 565,9,Books,Non-Fiction,760.35,1218.74
+PROD00378,Pro Self-Help Plus 875,9,Books,Self-Help,560.64,914.99
+PROD00379,Volt Snacks Max 872,10,Grocery,Snacks,616.02,1043.35
+PROD00380,Pro Organic Max 470,10,Grocery,Organic,124.2,196.49
+PROD00381,Pro Beverages Ultra 307,10,Grocery,Beverages,594.07,816.8
+PROD00382,Pro Staples Plus 219,10,Grocery,Staples,696.28,1154.75
+PROD00383,Aura Organic Ultra 556,10,Grocery,Organic,818.26,1249.25
+PROD00384,Eco Organic Ultra 159,10,Grocery,Organic,580.86,950.51
+PROD00385,Apex Staples Plus 360,10,Grocery,Staples,825.63,1381.2
+PROD00386,Apex Beverages Plus 452,10,Grocery,Beverages,715.37,1123.54
+PROD00387,Aura Beverages Plus 132,10,Grocery,Beverages,322.74,448.6
+PROD00388,Titan Snacks Lite 491,10,Grocery,Snacks,476.11,837.27
+PROD00389,Titan Organic X 799,10,Grocery,Organic,965.94,1678.1
+PROD00390,Pulse Snacks X 282,10,Grocery,Snacks,993.2,1486.36
+PROD00391,Volt Snacks X 874,10,Grocery,Snacks,71.6,103.76
+PROD00392,Pro Organic Plus 943,10,Grocery,Organic,268.18,410.4
+PROD00393,Nova Snacks Pro 996,10,Grocery,Snacks,738.77,1002.09
+PROD00394,Urban Organic X 346,10,Grocery,Organic,245.78,331.91
+PROD00395,Eco Beverages Ultra 788,10,Grocery,Beverages,718.12,951.04
+PROD00396,Titan Beverages Plus 339,10,Grocery,Beverages,562.77,943.88
+PROD00397,Zenith Beverages Ultra 396,10,Grocery,Beverages,272.45,479.03
+PROD00398,Urban Staples Ultra 891,10,Grocery,Staples,688.91,1006.03
+PROD00399,Zenith Staples Max 633,10,Grocery,Staples,259.99,377.05
+PROD00400,Pro Beverages Ultra 852,10,Grocery,Beverages,916.0,1477.5
+PROD00401,Pro Organic Plus 148,10,Grocery,Organic,973.68,1724.18
+PROD00402,Pro Organic Lite 813,10,Grocery,Organic,445.51,612.4
+PROD00403,Zenith Organic Ultra 584,10,Grocery,Organic,278.92,394.02
+PROD00404,Eco Snacks X 675,10,Grocery,Snacks,442.04,666.71
+PROD00405,Titan Snacks Pro 361,10,Grocery,Snacks,243.17,394.75
+PROD00406,Pulse Organic X 648,10,Grocery,Organic,738.36,1030.18
+PROD00407,Titan Staples Max 719,10,Grocery,Staples,622.78,1081.64
+PROD00408,Urban Snacks Max 787,10,Grocery,Snacks,580.91,894.42
+PROD00409,Nova Staples X 316,10,Grocery,Staples,940.3,1674.71
+PROD00410,Eco Beverages Pro 812,10,Grocery,Beverages,624.18,875.26
+PROD00411,Pro Snacks Lite 894,10,Grocery,Snacks,318.91,488.92
+PROD00412,Nova Staples Lite 468,10,Grocery,Staples,537.18,831.89
+PROD00413,Eco Beverages Lite 308,10,Grocery,Beverages,402.17,606.06
+PROD00414,Zenith Snacks X 367,10,Grocery,Snacks,575.65,916.44
+PROD00415,Nova Organic Pro 300,10,Grocery,Organic,363.37,541.4
+PROD00416,Eco Snacks Ultra 770,10,Grocery,Snacks,946.29,1389.9
+PROD00417,Eco Organic Plus 272,10,Grocery,Organic,746.13,1101.36
+PROD00418,Pro Snacks Plus 288,10,Grocery,Snacks,921.05,1447.04
+PROD00419,Pro Beverages X 959,10,Grocery,Beverages,854.36,1514.44
+PROD00420,Apex Beverages Plus 240,10,Grocery,Beverages,850.42,1203.95
+PROD00421,Apex Action Figures Pro 617,11,Toys,Action Figures,1248.82,1808.74
+PROD00422,Eco Educational X 106,11,Toys,Educational,1424.09,2462.35
+PROD00423,Pro Board Games Max 381,11,Toys,Board Games,1432.2,2333.55
+PROD00424,Zenith Educational X 198,11,Toys,Educational,1406.09,2239.58
+PROD00425,Pulse Puzzles Lite 914,11,Toys,Puzzles,1112.86,1890.13
+PROD00426,Eco Educational Ultra 349,11,Toys,Educational,2477.54,3916.21
+PROD00427,apex board games x 515,11,Toys,Board Games,1072.31,1975.36
+PROD00428,Apex Board Games Max 275,11,Toys,Board Games,390.18,810.11
+PROD00429,Urban Puzzles X 640,11,Toys,Puzzles,2314.05,3665.02
+PROD00430,Nova Educational X 176,11,Toys,Educational,1774.19,2881.81
+PROD00431,Zenith Board Games Lite 116,11,Toys,Board Games,2411.38,4508.38
+PROD00432,Aura Educational Lite 266,11,Toys,Educational,1497.1,2774.67
+PROD00433,Pro Educational Lite 493,11,Toys,Educational,1937.9,2930.03
+PROD00434,Pro Board Games Max 454,11,Toys,Board Games,323.5,566.02
+PROD00435,Pulse Board Games Ultra 887,11,Toys,Board Games,1611.89,3024.69
+PROD00436,Apex Puzzles Max 379,11,Toys,Puzzles,2002.16,3524.68
+PROD00437,pulse action figures ultra 484,11,Toys,Action Figures,1193.25,2319.39
+PROD00438,Aura Educational Ultra 402,11,Toys,Educational,2035.53,4010.98
+PROD00439,Nova Board Games Pro 489,11,Toys,Board Games,1836.86,3503.11
+PROD00440,Pulse Educational Lite 209,11,Toys,Educational,410.5,884.36
+PROD00441,Pulse Educational Lite 204,11,Toys,Educational,504.77,782.34
+PROD00442,Pro Educational Ultra 624,11,Toys,Educational,1138.5,1617.82
+PROD00443,Pro Puzzles X 711,11,Toys,Puzzles,1575.5,2614.61
+PROD00444,Apex Educational Lite 523,11,Toys,Educational,1091.94,1602.7
+PROD00445,Urban Action Figures Ultra 273,11,Toys,Action Figures,1776.23,2727.58
+PROD00446,Nova Puzzles Lite 604,11,Toys,Puzzles,535.65,821.56
+PROD00447,Titan Puzzles Lite 595,11,Toys,Puzzles,2000.13,3378.02
+PROD00448,Eco Action Figures Ultra 731,11,Toys,Action Figures,649.76,965.27
+PROD00449,Apex Puzzles Plus 440,11,Toys,Puzzles,2135.71,3639.06
+PROD00450,Eco Puzzles Lite 540,11,Toys,Puzzles,2075.59,4333.02
+PROD00451,Nova Action Figures Lite 717,11,Toys,Action Figures,2378.74,3712.46
+PROD00452,Zenith Puzzles Plus 426,11,Toys,Puzzles,870.33,1702.34
+PROD00453,Urban Educational Pro 433,11,Toys,Educational,1064.93,2186.5
+PROD00454,Pulse Educational X 677,11,Toys,Educational,659.54,1449.55
+PROD00455,Pro Action Figures X 844,11,Toys,Action Figures,1261.73,2481.44
+PROD00456,Nova Educational Max 170,11,Toys,Educational,2083.62,4243.35
+PROD00457,Eco Educational Pro 748,11,Toys,Educational,896.52,1436.35
+PROD00458,Titan Action Figures Plus 175,11,Toys,Action Figures,1232.85,2315.73
+PROD00459,Pro Educational Ultra 990,11,Toys,Educational,1790.93,3286.21
+PROD00460,Pro Puzzles Ultra 753,11,Toys,Puzzles,2303.12,3425.89
+PROD00461,Pulse Action Figures Pro 762,11,Toys,Action Figures,1609.16,2977.87
+PROD00462,Pulse Educational Plus 208,11,Toys,Educational,224.26,360.38
+PROD00463,Eco Pens Lite 500,12,Office Supplies,Pens,489.91,803.34
+PROD00464,Pulse Pens X 594,12,Office Supplies,Pens,149.32,225.18
+PROD00465,Aura Notebooks Max 245,12,Office Supplies,Notebooks,380.91,560.53
+PROD00466,Pro Pens Plus 456,12,Office Supplies,Pens,502.35,763.12
+PROD00467,Pulse Paper X 407,12,Office Supplies,Paper,92.45,153.04
+PROD00468,Pulse Notebooks Max 211,12,Office Supplies,Notebooks,693.28,958.24
+PROD00469,Pro Pens Pro 665,12,Office Supplies,Pens,202.13,319.35
+PROD00470,Volt Paper Plus 744,12,Office Supplies,Paper,225.23,364.93
+PROD00471,Titan Paper X 855,12,Office Supplies,Paper,633.4,885.91
+PROD00472,Titan Paper X 821,12,Office Supplies,Paper,254.06,365.63
+PROD00473,Urban Notebooks X 918,12,Office Supplies,Notebooks,878.38,1224.01
+PROD00474,Volt Organizers Plus 216,12,Office Supplies,Organizers,299.24,518.07
+PROD00475,Urban Organizers Plus 725,12,Office Supplies,Organizers,422.92,573.95
+PROD00476,Eco Organizers Ultra 276,12,Office Supplies,Organizers,823.05,1360.5
+PROD00477,Urban Organizers Ultra 186,12,Office Supplies,Organizers,688.5,1002.87
+PROD00478,Nova Pens X 287,12,Office Supplies,Pens,404.64,554.63
+PROD00479,Titan Paper Ultra 241,12,Office Supplies,Paper,596.07,900.96
+PROD00480,Pro Paper Max 760,12,Office Supplies,Paper,934.16,1295.32
+PROD00481,Eco Pens Lite 243,12,Office Supplies,Pens,227.74,391.95
+PROD00482,Pulse Notebooks X 596,12,Office Supplies,Notebooks,179.71,306.87
+PROD00483,Titan Paper Max 603,12,Office Supplies,Paper,444.85,765.12
+PROD00484,Zenith Paper X 678,12,Office Supplies,Paper,79.32,133.3
+PROD00485,Apex Organizers Lite 330,12,Office Supplies,Organizers,560.73,776.11
+PROD00486,Urban Paper Max 891,12,Office Supplies,Paper,777.62,1224.65
+PROD00487,Urban Notebooks X 374,12,Office Supplies,Notebooks,786.36,1345.96
+PROD00488,Pro Organizers X 878,12,Office Supplies,Organizers,733.03,1153.19
+PROD00489,Aura Paper Max 949,12,Office Supplies,Paper,670.99,955.33
+PROD00490,Eco Notebooks Lite 456,12,Office Supplies,Notebooks,869.09,1167.61
+PROD00491,Volt Notebooks Pro 930,12,Office Supplies,Notebooks,750.73,1234.63
+PROD00492,Zenith Paper Ultra 242,12,Office Supplies,Paper,795.61,1357.91
+PROD00493,Urban Notebooks Lite 645,12,Office Supplies,Notebooks,317.03,497.54
+PROD00494,Nova Organizers Lite 686,12,Office Supplies,Organizers,303.98,525.58
+PROD00495,Zenith Notebooks Plus 160,12,Office Supplies,Notebooks,992.86,1721.15
+PROD00496,Zenith Pens Pro 249,12,Office Supplies,Pens,725.83,1244.24
+PROD00497,Eco Paper Pro 691,12,Office Supplies,Paper,650.78,1050.3
+PROD00498,Eco Paper X 748,12,Office Supplies,Paper,804.87,1355.75
+PROD00499,Pro Paper Max 384,12,Office Supplies,Paper,709.97,1234.39
+PROD00500,Eco Paper Lite 695,12,Office Supplies,Paper,52.35,88.32
+PROD00501,Eco Notebooks Max 780,12,Office Supplies,Notebooks,712.42,1228.97
+PROD00502,Volt Paper Plus 944,12,Office Supplies,Paper,251.26,360.37
+PROD00503,Pulse Organizers Ultra 691,12,Office Supplies,Organizers,174.06,300.47
+PROD00504,Apex Organizers X 201,12,Office Supplies,Organizers,644.87,1108.11
