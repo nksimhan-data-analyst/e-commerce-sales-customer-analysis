@@ -10,6 +10,10 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
 
+## Dashboard Preview
+
+![E-Commerce Sales & Customer Analysis Dashboard](docs/dashboard-preview.png)
+
 ## Project Overview
 
 This project analyzes a synthetic e-commerce dataset covering orders, customers, products, locations, dates, revenue, discounts, profit, and shipping information from 2023 to 2025.
